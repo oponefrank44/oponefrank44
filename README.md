@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://ibb.co/RGM55pZs" alt="img"align="center" style="width: 100%" />
+    <img src="https://i.ibb.co/vCrttxgT/3959bb2e-6bed-439d-ac91-cda648da51db-jpg.png" alt="3959bb2e-6bed-439d-ac91-cda648da51db-jpg" border="0" />
 </div>  
   
 
@@ -102,7 +102,7 @@ https://frankoponeprofile.netlify.app/
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+ https://frankoponeprofile.netlify.app/blogs
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
@@ -121,5 +121,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
