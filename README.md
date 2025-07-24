@@ -1,6 +1,4 @@
-<div align="center">
-    <img src="https://i.ibb.co/vCrttxgT/3959bb2e-6bed-439d-ac91-cda648da51db-jpg.png" alt="3959bb2e-6bed-439d-ac91-cda648da51db-jpg" border="0" />
-</div>  
+
   
 
 ### <div align="center">I'm frank, a mid level developer </div>  
