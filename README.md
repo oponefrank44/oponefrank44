@@ -2,7 +2,7 @@
   
 
 ### <div align="center">Junior Web Developer | Passionate About Building Responsive & User-Friendly Websites </div>  
-  
+  Detail-oriented Junior Web Developer with a strong foundation in front-end technologies, including HTML, CSS, JavaScript, and modern frameworks like React. Experienced in creating responsive, mobile-first websites and collaborating with designers to bring creative visions to life. Eager to contribute to dynamic development teams while continuously expanding skills in full-stack development.  
 
 - ⌨ I’m currently working on my portfolio
 https://frankoponeprofile.netlify.app/
@@ -13,7 +13,7 @@ https://frankoponeprofile.netlify.app/
 
 
 
-Detail-oriented Junior Web Developer with a strong foundation in front-end technologies, including HTML, CSS, JavaScript, and modern frameworks like React. Experienced in creating responsive, mobile-first websites and collaborating with designers to bring creative visions to life. Eager to contribute to dynamic development teams while continuously expanding skills in full-stack development.  
+
   
 
 <br/>  
