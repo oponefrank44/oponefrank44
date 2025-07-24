@@ -1,16 +1,16 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://ibb.co/RGM55pZs" align="center" style="width: 100%" />
 </div>  
   
 
 ### <div align="center">I'm frank, a mid level developer </div>  
   
 
-- ⌨ I’m currently working on Demo-flight-api
-https://github.com/oponefrank44/Demo-flight-api.git   
+- ⌨ I’m currently working on my portfolio
+https://frankoponeprofile.netlify.app/
   
 
-- 📚 I’m currently learning React ,Next.js and Unreal engine  
+- 📚 I’m currently python and Unreal engine  
   
 
 -   
